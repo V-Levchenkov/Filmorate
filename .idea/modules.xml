@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-filmorate-main/filmorate.iml" filepath="$PROJECT_DIR$/java-filmorate-main/filmorate.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/java-filmorate-mainГотовая программа.iml" filepath="$PROJECT_DIR$/.idea/java-filmorate-mainГотовая программа.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-filmorate.iml" filepath="$PROJECT_DIR$/.idea/java-filmorate.iml" />
     </modules>
   </component>
 </project>
